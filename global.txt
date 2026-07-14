@@ -1,3 +1,1 @@
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.87.181:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=safari&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23107
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=chrome&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23110
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=firefox&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23111
+
