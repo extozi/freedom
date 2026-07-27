@@ -1,1 +1,2 @@
-
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?encryption=none&fp=chrome&host=furrycdn.net&path=%2Fapi%2Fv1%2Fmake-love-not-war&security=tls&sni=furrycdn.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23315
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?encryption=none&fp=firefox&host=furrycdn.net&path=%2Fapi%2Fv1%2Fmake-love-not-war&security=tls&sni=furrycdn.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23316
