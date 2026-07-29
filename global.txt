@@ -1,3 +1,1 @@
-vless://c2869a7c-747a-40b3-a771-9017bcfc09a1@5.188.115.69:443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2Fws&security=tls&sni=amogus.razkur.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2371
-vless://642e3eda-6811-4519-9eee-a5c6c763b0d7@5.188.115.69:443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2Fws&security=tls&sni=amogus.razkur.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2373
-vless://5bf1d398-a9c9-4030-b238-ae0b75bbb088@5.188.115.69:443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2Fws&security=tls&sni=amogus.razkur.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2374
+vless://be2bcd98-0ecc-4556-aa1a-b453a1878393@81.163.23.248:443?encryption=none&fp=firefox&host=selec248.apruxdomain.website&path=%2Favi%2Fv1%2Finfo&security=tls&sni=selec248.apruxdomain.website&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23112
