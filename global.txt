@@ -1,1 +1,1 @@
-vless://be2bcd98-0ecc-4556-aa1a-b453a1878393@81.163.23.248:443?encryption=none&fp=firefox&host=selec248.apruxdomain.website&path=%2Favi%2Fv1%2Finfo&security=tls&sni=selec248.apruxdomain.website&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23112
+
