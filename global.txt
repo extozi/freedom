@@ -1,7 +1,1 @@
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2389
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2390
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2391
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2392
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2394
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.67.215.8:443?encryption=none&fp=android&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23198
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@213.241.198.8:443?encryption=none&fp=safari&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23202
+
