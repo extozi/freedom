@@ -1,5 +1,2 @@
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23151
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.18.163:8880?encryption=none&host=cnd.finland2.2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23227
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.16.112:8880?encryption=none&host=cnd.finland2.2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23228
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:2053?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23234
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&host=cnd.netherlands.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23282
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23130
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:2053?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23188
