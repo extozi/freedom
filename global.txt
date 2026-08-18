@@ -1,3 +1,1 @@
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.18.163:8880?encryption=none&host=cnd.finland2.2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23227
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.16.112:8880?encryption=none&host=cnd.finland2.2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23228
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&host=cnd.netherlands.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23286
+
