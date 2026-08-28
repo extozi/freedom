@@ -1,2 +1,1 @@
-vless://20872452-b4be-4823-a25f-37dbe1db22f1@185.178.208.137:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=games22.fun&path=%2Fv1%2Fdata%2Fsync&security=tls&sni=games22.fun&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23101
-vless://3069559b-3446-415e-8db0-633907b17871@185.178.208.137:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=games22.fun&path=%2Fv1%2Fdata%2Fsync&security=tls&sni=games22.fun&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23102
+vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@201.24.49.74:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%2351
