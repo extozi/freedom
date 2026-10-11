@@ -1,1 +1,1 @@
-
+vless://48f87acd-ae4a-45e2-bf91-6eeb0f65ffde@185.86.145.142:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=n2.185-86-145-142.sslip.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2397
