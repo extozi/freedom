@@ -1,1 +1,1 @@
-vless://48f87acd-ae4a-45e2-bf91-6eeb0f65ffde@185.86.145.142:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=n2.185-86-145-142.sslip.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2397
+vless://799473c1-7862-4869-af96-9bdccff8f53b@31.177.111.140:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fclient%2Fcollect%2F6b3a32fb9f37%2F&security=tls&sni=cdn.rucdncomp.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2384
